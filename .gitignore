@@ -3,3 +3,8 @@ driver/
 
 #jupyter notebook
 jupyter/
+
+wongnai/
+.test.py
+
+csv/
